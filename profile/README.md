@@ -1,7 +1,7 @@
 ‌
 # KAUST Artificial Intelligence Initiative
 
-![](.github/profile/teaser.png)
+![](https://github.com/AI-Initiative-KAUST/.github/blob/main/profile/teaser.png)
 
 ## Goal
 
