@@ -1,4 +1,4 @@
-‌# KAUST Artificial Intelligence Initiative
+‌KAUST Artificial Intelligence Initiative
 
 KAUST strives to become an international leader in Artificial Intelligence research, education, and entrepreneurship, and seeks to embed AI into the other activities of the university to grow its impact and external visibility.
 The KAUST AI Initiative is a first step towards these goals. The AI Initiative aims to bring together faculty from across KAUST around a range of collaborative and interdisciplinary projects and to start developing education, outreach, and engagement opportunities both within Saudi Arabia and globally. 
