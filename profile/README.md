@@ -18,8 +18,7 @@ The research activities of interest for the AI Initiative include but are not li
 * Natural Language Processing, in particular for Arabic.
 * Other applications such as Robotics and Visual Computing.
 
-## Recent News
-
 ## Spotlights
 
 ## Publication Records
+
