@@ -1,7 +1,7 @@
 ‌
 # KAUST Artificial Intelligence Initiative
 
-Our Institution Homepage: https://cemse.kaust.edu.sa/ai
+![](./teaser.png)
 
 ## Goal
 
@@ -22,3 +22,8 @@ The research activities of interest for the AI Initiative include but are not li
 
 ## Publication Records
 
+## Related Links
+
+Our Institution Homepage: https://cemse.kaust.edu.sa/ai
+
+We are now hiring faculty, PostDocs, PhD students in AI: https://cemse.kaust.edu.sa/ai/hiring-faculty-postdocs-phd-students-ai
